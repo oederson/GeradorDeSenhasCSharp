@@ -1,0 +1,15 @@
+/home/eder/GeradorDeSenhasCSharp/bin/Debug/net7.0/GeradorDeSenhasCSharp
+/home/eder/GeradorDeSenhasCSharp/bin/Debug/net7.0/GeradorDeSenhasCSharp.deps.json
+/home/eder/GeradorDeSenhasCSharp/bin/Debug/net7.0/GeradorDeSenhasCSharp.runtimeconfig.json
+/home/eder/GeradorDeSenhasCSharp/bin/Debug/net7.0/GeradorDeSenhasCSharp.dll
+/home/eder/GeradorDeSenhasCSharp/bin/Debug/net7.0/GeradorDeSenhasCSharp.pdb
+/home/eder/GeradorDeSenhasCSharp/obj/Debug/net7.0/GeradorDeSenhasCSharp.csproj.AssemblyReference.cache
+/home/eder/GeradorDeSenhasCSharp/obj/Debug/net7.0/GeradorDeSenhasCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/eder/GeradorDeSenhasCSharp/obj/Debug/net7.0/GeradorDeSenhasCSharp.AssemblyInfoInputs.cache
+/home/eder/GeradorDeSenhasCSharp/obj/Debug/net7.0/GeradorDeSenhasCSharp.AssemblyInfo.cs
+/home/eder/GeradorDeSenhasCSharp/obj/Debug/net7.0/GeradorDeSenhasCSharp.csproj.CoreCompileInputs.cache
+/home/eder/GeradorDeSenhasCSharp/obj/Debug/net7.0/GeradorDeSenhasCSharp.dll
+/home/eder/GeradorDeSenhasCSharp/obj/Debug/net7.0/refint/GeradorDeSenhasCSharp.dll
+/home/eder/GeradorDeSenhasCSharp/obj/Debug/net7.0/GeradorDeSenhasCSharp.pdb
+/home/eder/GeradorDeSenhasCSharp/obj/Debug/net7.0/GeradorDeSenhasCSharp.genruntimeconfig.cache
+/home/eder/GeradorDeSenhasCSharp/obj/Debug/net7.0/ref/GeradorDeSenhasCSharp.dll
