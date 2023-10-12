@@ -4,12 +4,12 @@ namespace GeradorDeSenhasCSharp.Models
 {
     public class Senha
     {
-        private int QuantidadeDeCaracteres { get; set; }
+        private uint QuantidadeDeCaracteres { get; set; }
         private string CaracteresPossiveis { get; set; }
-        public  string GerarSenha(int maiusculas, 
-                         int minusculas, 
-                         int numeros, 
-                         int especiais
+        public  string GerarSenha(uint maiusculas, 
+                         uint minusculas, 
+                         uint numeros, 
+                         uint especiais
                          )
         {
             Senha[] senhasPossiveis = new Senha[4]
@@ -29,7 +29,7 @@ namespace GeradorDeSenhasCSharp.Models
             return Misturar(senha.ToString());
         }
 
-        private static void AdicionarCaracteresParaSenha(StringBuilder senha, string tipoDeCaracter, int count)
+        private static void AdicionarCaracteresParaSenha(StringBuilder senha, string tipoDeCaracter, uint count)
         {
             var random = new Random();
 

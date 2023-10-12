@@ -5,7 +5,7 @@ namespace GeradorDeSenhasCSharp.Models
         public static void ExibirMenu()
         {
             Senha senha = new();
-            var entradas = new Dictionary<string, int>()
+            var entradas = new Dictionary<string, uint>()
             {
                 {"Maiúsculas",0},
                 {"Minúsculas",0},
@@ -27,7 +27,7 @@ namespace GeradorDeSenhasCSharp.Models
             {
                 Console.Write($"{entrada.Key} : ");
                 string oQueDigitou = Console.ReadLine();
-                if (int.TryParse(oQueDigitou, out int quantidade))
+                if (uint.TryParse(oQueDigitou, out uint quantidade))
                 {
                     entradas[entrada.Key] = quantidade;
                 }
