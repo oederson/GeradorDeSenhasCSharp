@@ -27,14 +27,11 @@ namespace GeradorDeSenhasCSharp.Models
             {
                 Console.Write($"{entrada.Key} : ");
                 string oQueDigitou = Console.ReadLine();
+                
                 if (uint.TryParse(oQueDigitou, out uint quantidade))
-                {
                     entradas[entrada.Key] = quantidade;
-                }
                 else
-                {
                     Console.WriteLine("Voce não digitou um número valido a quantidade será 0");
-                }
             }
 
             string senhaGerada = senha.GerarSenha(entradas["Maiúsculas"], 
